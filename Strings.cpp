@@ -32,6 +32,7 @@ int main(){
     //comparing strings
     string firstString, secondString;
 
+    //Asking for input
     cout << "Enter the first string: ";
     getline(cin, firstString);
 
